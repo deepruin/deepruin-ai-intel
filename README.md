@@ -21,6 +21,7 @@ We analyze the AI industry through the lens of:
 
 | Date | Report | Key Insights |
 |------|--------|--------------|
+| 2026-02-25 | [Weekly Update](reports/2026-02-25-weekly-update.md) | Network: 2,664 contacts, 4,362 relationships. $1.2B+ funding tracked. |
 | 2026-02-07 | [Network Report](reports/2026-02-07-network-report.md) | Initial network analysis: 2,657 contacts, 4,353 relationships |
 
 ## 🔮 Content Pillars
