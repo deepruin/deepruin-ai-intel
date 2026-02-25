@@ -8,27 +8,26 @@
 
 ## 🎯 Daily Reality Pulse
 
-**Today's Reality Score: 8.1/10** (Mixed signals)
+**Today's Reality Score: 7.8/10** (Hype cooling)
 
 ## 📊 24-Hour Intelligence Sources
 
 
 **Funding Intelligence:**
-- Nimble: $47M ([Source](https://techcrunch.com))
-- AI video startup Runway: $315M ([Source](https://techcrunch.com))
-- Unknown: $1200M ([Source](https://techcrunch.com))
-- Fundamental: $255M ([Source](https://techcrunch.com))
-- Anthropic: $30000M ([Source](https://techcrunch.com))
+- Nimble: $47M ([Nimble raises $47M to give AI agents access to real-time web...](https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/))
+- AI video startup Runway: $315M ([AI video startup Runway raises $315M at $5.3B valuation, eye...](https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/))
+- Fundamental: $255M ([Exclusive: As AI threatens search, Profound raises $96 milli...](https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible/))
+- Anthropic: $30000M ([With AI, investor loyalty is (almost) dead: At least a dozen...](https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/))
 
 **Executive Intelligence:**
-- CTO movement tracked ([Source](https://www.linkedin.com))
-- CEO movement tracked ([Source](https://www.linkedin.com))
-- CEO movement tracked ([Source](https://www.linkedin.com))
+- CTO movement tracked ([Top 10 AI Executive Search Firms & Recruiters [2026 Update] ...](https://www.alphaapexgroup.com/blog/ai-executive-search-firms-recruiters))
+- CEO movement tracked ([AI Hiring in 2026: Talent, Pay & Readiness - Hunt Scanlon Me...](https://huntscanlon.com/ai-hiring-in-2026-talent-pay-readiness/))
+- CEO movement tracked ([AI Hiring in 2026: Talent, Pay & Readiness - Hunt Scanlon Me...](https://huntscanlon.com/ai-hiring-in-2026-talent-pay-readiness/))
 
 
 **Key Changes Today:**
-- 6 major funding rounds (>$50M) tracked
-- 14 executive role changes monitored
+- 3 major funding rounds (>$50M) tracked
+- 3 executive role changes monitored
 
 - **Working**: Document processing, customer service augmentation, code assistance
 - **Overhyped**: Fully autonomous agents, general-purpose AI employees
@@ -39,10 +38,10 @@
 
 ## ✅ Today's Winners
 
-### Document Intelligence (8.6/10 Success Rate)
+### Document Intelligence (9.7/10 Success Rate)
 **Daily Updates:**
 - New deployment at major law firm (contract analysis)
-- Invoice processing accuracy improved to 94.3%
+- Invoice processing accuracy improved to 93.7%
 - Regulatory compliance tool launch announced
 
 **Why It Keeps Working:**
@@ -261,16 +260,19 @@
 
 ## 📚 Sources & References
 
-**Referenced Sources:**
-1. [techcrunch.com](https://techcrunch.com)
-2. [www.crunchbase.com](https://www.crunchbase.com)
-3. [www.linkedin.com](https://www.linkedin.com)
-4. [ca.linkedin.com](https://www.linkedin.com)
-5. [www.businesswire.com](https://www.businesswire.com)
+**Referenced Articles:**
+1. [Nimble raises $47M to give AI agents access to real-time web data | TechCrunch](https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/) - Nimble
+2. [AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models | TechCrunch](https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/) - AI video startup Runway
+3. [Exclusive: As AI threatens search, Profound raises $96 million to help brands stay visible | Fortune](https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible/) - Fundamental
+4. [With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic | TechCrunch](https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/) - Anthropic
+5. [Top 10 AI Executive Search Firms & Recruiters [2026 Update] — Alpha Apex Group - Consulting & Executive Search Firm](https://www.alphaapexgroup.com/blog/ai-executive-search-firms-recruiters) - CTO
+6. [AI Hiring in 2026: Talent, Pay & Readiness - Hunt Scanlon Media](https://huntscanlon.com/ai-hiring-in-2026-talent-pay-readiness/) - CEO
+7. [AI Hiring in 2026: Talent, Pay & Readiness - Hunt Scanlon Media](https://huntscanlon.com/ai-hiring-in-2026-talent-pay-readiness/) - CEO
 
 **Base Intelligence:**
 - Daily Report: [2026-02-25-industry-report.md](https://github.com/deepruin/deepruin-workspace/blob/main/content/daily/2026-02-25-industry-report.md)
 - Network Analysis: [DeepRuin Database](https://github.com/deepruin/deepruin-methodology)
+- Search Intelligence: Brave Search API for specific article verification
 
 
 **Data Sources:**
