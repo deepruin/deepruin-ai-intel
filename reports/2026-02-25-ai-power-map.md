@@ -8,8 +8,8 @@
 
 ## 💰 Major Funding Moves (Last 7 Days)
 
-| Company | Amount | Round | Strategic Significance |
-|---------|--------|-------|------------------------|
+| Company | Amount | Round | Strategic Significance | Source |
+|---------|--------|-------|------------------------|--------|
 
 
 ## 👑 Leadership Power Shifts
@@ -80,6 +80,21 @@
 - Leadership network centrality
 - Strategic partnership quality
 - Market influence indicators
+
+## 📚 Sources & References
+
+**Funding Intelligence:**
+- Daily Report: [2026-02-25-industry-report.md](https://github.com/deepruin/deepruin-workspace/blob/main/content/daily/2026-02-25-industry-report.md)
+
+**Base Intelligence:**
+- Daily Industry Reports: [workspace/content/daily/](https://github.com/deepruin/deepruin-workspace/tree/main/content/daily)
+- Network Analysis: [DeepRuin Database](https://github.com/deepruin/deepruin-methodology)
+- Executive tracking: LinkedIn, press releases, company announcements
+
+**Methodology:**
+- Power metrics based on funding velocity, network centrality, and market influence
+- Strategic significance assessed through amount, timing, and sector impact
+- Leadership tracking via professional network analysis
 
 ---
 
